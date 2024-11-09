@@ -1,5 +1,9 @@
-site,year,month,day,ref_prevalence
-Nanoro,2015,8,15,0.638404
-Nanoro,2016,1,15,0.5741445
-Nanoro,2016,5,15,0.3658537
-Nanoro,2017,1,15,0.4871795
+site,year,month,day,ref_prevalence,age
+Siaya,2006,4,1,0.363,100
+Siaya,2007,4,1,0.296,100
+Siaya,2008,4,1,0.275,100
+Siaya,2009,4,1,0.39,100
+Siaya,2010,4,1,0.397,100
+Siaya,2011,6,1,0.392,100
+Siaya,2012,6,1,0.341,100
+Siaya,2013,6,1,0.345,100

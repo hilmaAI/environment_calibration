@@ -1,0 +1,2 @@
+year,phase,start_day,end_day,location,demographic_coverage,killing_initial_effect,killing_box_duration,killing_decay_time_constant,repelling_initial_effect,repelling_box_duration,repelling_decay_time_constant,insecticide
+2024,pickup,21415,21425,siaya,0.9675,1,0,90,0,0,90,clothianidin/deltamethrin

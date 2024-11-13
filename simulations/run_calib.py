@@ -29,7 +29,7 @@ from run_full_comparison import plot_allAge_prevalence,plot_incidence,compute_sc
 ####################################
 # Experiment details - this is the only section you need to edit with the script
 Site="siaya"
-exp_label = "test_15"
+exp_label = "test4"
 ####################################
 
 output_dir = f"output/{exp_label}"
@@ -74,7 +74,7 @@ class Problem:
         
         wdir=os.path.join(f"{self.workdir}/LF_{self.n}")
         os.makedirs(wdir,exist_ok=True)
-            
+      
         Y0=myFunc(X,wdir)
         # Clean up any non-score columns returned by myfunc
         ps = Y0['param_set']

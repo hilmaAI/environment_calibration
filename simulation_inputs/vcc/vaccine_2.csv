@@ -1,0 +1,4 @@
+node_id,phase,year,start_day,demographic_coverage,target_num_individuals,node_ids,repetitions,timesteps_between_repetitions,ind_property_restrictions,target_age_min,target_age_max,target_gender,broadcast_event,vaccine_type,vaccine_take,vaccine_initial_effect,vaccine_box_duration,vaccine_decay_time_constant,efficacy_is_multiplicative
+1,pickup,2024,3650,0.9545,NA,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2024,3711,0.8855,NA,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2024,3772,0.828,NA,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE

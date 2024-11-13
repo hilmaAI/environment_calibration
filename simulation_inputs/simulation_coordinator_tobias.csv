@@ -22,10 +22,10 @@ vaccine2_filepath,vcc/vaccine_2.csv,vaccine2
 ITN_season_filepath,itn/ITN_season.csv,"file describing seasonal patterns in ITN usage, ifa ny"
 vector_filepath,vectors/vectors_siaya.csv,file describing mix of vector species and their ecology
 prevalence_comparison,TRUE,include a measure of prevalence in scoring?
-prevalence_comparison_reference,pcr_prevalence_AllAge.csv,reference dataset for prevalence
+prevalence_comparison_reference,pcr_prevalence_AllAge_tobias.csv,reference dataset for prevalence
 prevalence_comparison_frequency,monthly,"""monthly"" or ""annual"" (not tested)"
 prevalence_comparison_diagnostic,Microscopy,"""PCR"" or ""Microscopy"" or ""RDT"""
 incidence_comparison,TRUE,include a measure of clinical incidence in scoring?
-incidence_comparison_reference,routine_incidence_by_district.csv,reference dataset for incidence
+incidence_comparison_reference,routine_incidence_by_district_tobias.csv,reference dataset for incidence
 incidence_comparison_frequency,monthly,"""monthly"" or ""annual"""
 incidence_comparison_agebin,5,agebin (within incidence_comparison_reference) to use for comparison

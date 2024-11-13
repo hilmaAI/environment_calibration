@@ -1,0 +1,16 @@
+node_id,phase,year,start_day,demographic_coverage,target_num_individuals,repetitions,timesteps_between_repetitions,ind_property_restrictions,target_age_min,target_age_max,target_gender,broadcast_event,vaccine_type,vaccine_take,vaccine_initial_effect,vaccine_box_duration,vaccine_decay_time_constant,efficacy_is_multiplicative
+1,pickup,2019,19710,0.37,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2019,19710,0.24,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2019,19710,0.07,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2020,20075,0.8,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2020,20075,0.75,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2020,20075,0.7,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2020,20075,0.02,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2021,20440,0.83,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2021,20440,0.75,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2021,20440,0.67,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2021,20440,0.3,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2022,20805,0.83,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2022,20805,0.77,NA,1,365,NA,1,2,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2022,20805,0.72,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE
+1,pickup,2022,20805,0.37,NA,1,365,NA,2,3,All,NA,AcquisitionBlocking,1,0.676,365,100,TRUE

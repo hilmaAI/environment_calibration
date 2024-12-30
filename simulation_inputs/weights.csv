@@ -1,5 +1,5 @@
 objective,weight
 shape_score,0.001
-intensity_score,1
-prevalence_score,1
-eir_score,10
+intensity_score,0.00001
+prevalence_score,0.0000001
+eir_score,1000

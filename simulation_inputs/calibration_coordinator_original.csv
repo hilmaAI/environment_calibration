@@ -1,2 +1,0 @@
-site,init_size,init_batches,batch_size,max_eval,failure_limit,success_limit
-siaya,20,1,20,200,2,8

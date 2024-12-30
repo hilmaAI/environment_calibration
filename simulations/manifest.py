@@ -3,8 +3,8 @@
 from pathlib import Path
 import os
 
-VENV_PATH = '/home/tmh6260/my_environments/pytorch_test'
-SITE='Nanoro'
+VENV_PATH = '/home/ani7465/b1139/environments/pytorch_hn'
+SITE='siaya'
 EXPERIMENT_LABEL='sample_experiment'
 
 CURRENT_DIR = Path(__file__).resolve().parent

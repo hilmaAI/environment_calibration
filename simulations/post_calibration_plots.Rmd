@@ -6,13 +6,15 @@ editor_options:
 
 # configuration
 
+
+
 ```{r}
 library(tidyverse)
 library(patchwork)
 library(glue)
 library(jsonlite)
 # exp_labeleriment name
-exp_label <- "test_long"
+exp_label <- "t16"
 turbo <- jsonlite::read_json(glue("output/{exp_label}/TurboThompson.json"))
 # Number of training batches
 training_batches <- 1
